@@ -1,2 +1,14 @@
 # guideyaxing-archive
-HTML page archive and documentation
+
+页面文件归档说明
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
